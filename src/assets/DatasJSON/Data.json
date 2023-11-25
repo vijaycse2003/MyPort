@@ -1,0 +1,51 @@
+[
+    {
+        "ins":"NPTEL",
+        "cname":"Problem Solving in C",
+        "detail":"This course is aimed at enabling the students to. Formulate simple algorithms for arithmetic and logical problems",
+        "percentage":"Elite 67%",
+        "path":"np-1.jpg"
+    },
+    {
+        "ins":"NPTEL",
+        "cname":"Data structure in Java",
+        "path":"np-2.jpg",
+        "detail":"Data Structure in java is defined as the collection of data pieces that offers an effective means of storing and organising data in a computer.",
+        "percentage":"Elite 70%"
+    },
+    {
+        "ins":"NPTEL",
+        "cname":"Data Analytics",
+        "detail":"Data analytics is the process of analyzing data sets to find trends and draw conclusions. It uses a range of tools, technologies",
+        "path":"np-3.jpg",
+        "percentage":"Elite 59%"
+    },
+    {
+        "ins":"NPTEL",
+        "cname":"Web Developer",
+        "path":"np-3.jpg",
+        "detail":"",
+        "percentage":"Winner"
+    },
+    {
+        "ins":"NPTEL",
+        "cname":"Web Developer",
+        "path":"np-3.jpg",
+        "detail":"",
+        "percentage":"Winner"
+    },
+    {
+        "ins":"College Symposiuam",
+        "cname":"Web Developer",
+        "path":"np-3.jpg",
+        "detail":"",
+        "percentage":"Winner"
+    },
+    {
+        "ins":"Simplylearn",
+        "cname":"Introducing in CyberSecurity",
+        "path":"np-3.jpg",
+        "detail":"",
+        "percentage":"100%"
+    }
+]

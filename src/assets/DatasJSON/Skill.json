@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "pers": 70,
+      "cname": "JAVA",
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "pers": 85,
+      "cname": "PYTHON",
+      "color": "blue"
+    },
+    {
+      "id": 3,
+      "pers": 60,
+      "cname": "PHP",
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "pers": 55,
+      "cname": "C ",
+      "color": "yellow"
+    },
+    {
+      "id": 5,
+      "pers": 90,
+      "cname": "HTML & CSS",
+      "color": "#980f0f"
+    },
+    {
+      "id": 6,
+      "pers": 70,
+      "cname": "JAVASCRIPT",
+      "color": "#fff"
+    },
+    {
+      "id": 7,
+      "pers": 80,
+      "cname": "REACT JS",
+      "color": "#ff0"
+    },
+    {
+      "id": 8,
+      "pers": 75,
+      "cname": "VUE JS",
+      "color":"#0f0"
+    },
+    {
+      "id":9,
+      "pers":15,
+      "cname": "UI DESIGN",
+      "color":"#00f"
+    },
+    {
+      "id":10,
+      "pers":90,
+      "cname": "MYSQL & ORACLE",
+      "color":"#333"
+    },
+    {
+      "id":11,
+      "pers":93,
+      "cname": "VS CODE",
+      "color":"#00fff0"
+    },
+    {
+      "id":12,
+      "pers":30,
+      "cname": "LINUX",
+      "color":"#0c8585"
+    },
+    {
+      "id":13,
+      "pers":80,
+      "cname": "NODE JS",
+      "color":" #1af2f2"
+    },
+    {
+      "id":14,
+      "pers":83,
+      "cname": "EXPRESS JS",
+      "color":"  #dca10a"
+    },
+    {
+      "id":15,
+      "pers":70,
+      "cname": "MANGOOSE DB",
+      "color":" #700ad0"
+    },
+    {
+      "id":16,
+      "pers":60,
+      "cname": "SOLIDITY",
+      "color":"#0c0c749a"
+    },
+    {
+      "id":17,
+      "pers":75,
+      "cname": "REACT NATIVE",
+      "color":"#ff1493"
+    },
+    {
+      "id":18,
+      "pers":45,
+      "cname": "FLUTTER",
+      "color":" #4b0082"
+    }
+     
+    
+  ]
+
+  

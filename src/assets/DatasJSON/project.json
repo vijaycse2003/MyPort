@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "domain": "Artificial Intelligence",
+        "language": "Python",
+        "pname": "ChatBotAI-Flask",
+        "link": "https://github.com/vijaycse2003/ChatBotAI-Flask-",
+        "about": "In Flask application that incorpates a chatbot Powered by AI you Tensorflow using Deep Learning Concept in LabelEncoder"
+    },
+    {
+        "id": 2,
+        "domain": "Artificial Intelligence",
+        "language": "Python",
+        "pname": "Wheather Image Classification",
+        "link": "https://github.com/vijaycse2003/YogiBot",
+        "about": "Wheather image classification is a task that involves using machine learning to classify image based on wheather conditions."
+    },
+    {
+        "id": 3,
+        "domain": "Web Application",
+        "language": "React JS",
+        "pname": "MusicPlay-React",
+        "link": "https://github.com/vijaycse2003/MyPlay-React",
+        "about": "Creating a music app in React involves various components and functionality.Here high-level overview might approach."
+    },
+    {
+        "id": 4,
+        "domain": "Web Application",
+        "language": "Python",
+        "pname": "Friends Managment System",
+        "link": "https://github.com/vijaycse2003/Friends-System-Flask",
+        "about": "Implement user registration and login functionality in your Flask application.use library liske Flask-login for session."
+    },
+    {
+        "id": 5,
+        "domain": "Web Application",
+        "language": "Python",
+        "pname": "DietryData System",
+        "about": "A dietary system refers to a structured or organised way of eating that is followed for various reasons including health.",
+        "link": "https://github.com/vijaycse2003/DietrySystem-Flask"
+    },
+    {
+        "id": 6,
+        "domain": "Web Development",
+        "language": "React js",
+        "pname": "TechBlog 2023",
+        "link": "https://github.com/vijaycse2003/TechCyberBlog-React",
+        "about": "If you're building a blog webpage with Vue.js and you want to pass data to an anchor tag with in blog post using React"
+    },
+    {
+        "id": 7,
+        "domain": "Artificial Intelligence",
+        "language": "Python",
+        "pname": "Image Classification",
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "about": "Image classification variety image train the model than test the the model it used to attendness system"
+    },
+    {
+        "id": 8,
+        "domain": "Artificial Intelligence",
+        "language": "Python",
+        "pname": "Image Classification",
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "about": "Image classification variety image train the model than test the the model it used to attendness system"
+    },
+    {
+        "id": 10,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "Artificial Intelligence",
+        "language": "Python",
+        "pname": "Friends Management system",
+        "about": "Image classification variety image train the model than test the the model it used to attendness system"
+    },
+    {
+        "id": 9,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "Todolist-Mern",
+        "detail": "Todo list web application using MERN stack is a project that basically implements basic CRUD operation using MERN stack (MongoDB, Express JS, Node JS, React JS).",
+        "language": "JavaScript"
+    },
+    {
+        "id": 11,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "ShopyMart-Django",
+        "detail": "We are Shopymart India. We have launched Beauty Product range under the brand . We are selling the products through our website and top E-commerce websites like Amazon, Flipkart, Healthmug and many more.",
+        "language": "HTML"
+    },
+    {
+        "id": 12,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "calorieTrack-Django",
+        "detail": "It's not just a calorie counter for weight loss, diet trends, or a fast route to fat loss—it's a health and nutrition app and planner that helps you hold yourself accountable and understand what you put in your body.",
+        "language": "Python"
+    },
+    {
+        "id": 13,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "NodeJS-CRUD",
+        "detail": "Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser. Ryan Dahl developed it in 2009, and its latest iteration, version 15.14, was released in April 2021.",
+        "language": "JavaScript"
+    },
+    {
+        "id": 13,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "Mongoose-CRUD",
+        "detail": "Mongoose can support eight different types of 'SchemaTypes': String, Number, Date, Buffer, Boolean, Mixed, ObjectId, and Array. It even has a wide range of methods to perform CRUD (create, retrieve, update and delete) operations on your data in the MongoDB database.",
+        "language": "JavaScript"
+    },
+    {
+        "id": 14,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "Bikestore-Django",
+        "detail": "Beyond bicycles, a bike shop may offer clothing and other accessories, spare and replacement parts, tools, and a variety of services. Services may include expert fitting and custom bike building or ordering, maintenance and repairs from experienced bicycle mechanics, and organized group rides and classes.",
+        "language": "HTML"
+    },
+    {
+        "id": 15,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "Music player",
+        "detail": "A mobile phone application that allows you to listen to music files stored in the phone's internal or external memory. Related terms: AAC (Advanced Audio Coding).",
+        "language": "JavaScript"
+    },
+    {
+        "id": 16,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "Portfolio",
+        "detail": "A portfolio is a collection of financial investments like stocks, bonds, commodities, cash, and cash equivalents, including closed-end funds and exchange traded funds (ETFs). People generally believe that stocks, bonds, and cash comprise the core of a portfolio.",
+        "language": "HTML"
+    },
+    {
+        "id": 17,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "Cyber Security",
+        "detail": "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks.",
+        "language": "HTML"
+    },
+    {
+        "id": 18,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "Starbucks",
+        "detail": "Starbucks is a chain of stores that sell coffee. A chain is many stores owned by the same company. Many of the stores look the same, and all stores sell the same items, often at the same prices. As well as coffee, Starbucks sells beverages and baked goods.",
+        "language": "Vue JS"
+    },
+    {
+        "id": 19,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "Capstone-ML",
+        "detail": "The capstone project will be graded by experts that apply machine learning to day-to-day activities. Apart from the expert advantage one will get from completing the capstone project, one gets a chance to solve problems.",
+        "language": "Jupyter Notebook"
+    },
+    {
+        "id": 20,
+        "link": "https://github.com/vijaycse2003/ImageClassification",
+        "domain": "web development",
+        "pname": "Storewale",
+        "detail": "A coffee shop is an establishment where people gather to enjoy a cup of coffee, tea, or coffee-based snacks that can be taken with coffee, such as pastries, cakes, muffins, donuts, and sandwiches.",
+        "language": "HTML"
+    }
+]

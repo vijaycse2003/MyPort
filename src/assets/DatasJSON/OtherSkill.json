@@ -1,0 +1,27 @@
+[
+    {
+      "id1 ":1,
+      "pers":65,
+      "name":"Communication"
+    },
+    {
+      "id1 ":2,
+      "pers":85,
+      "name":"Leadership"
+    },
+    {
+      "id1 ":3,
+      "pers":75, 
+      "name":"Creative"
+    },
+    {
+      "id1":4,
+      "pers":65,
+      "name":"Problem-solving"
+    },
+    {
+      "id1":5,
+      "pers":95,
+      "name":"Abilty to work independently"
+    }
+  ]
